@@ -121,7 +121,7 @@ Please respond immediately.
 
 ## 🎥 Demo Video
 
-> 📹 **[Watch the Project Demo Here]((https://drive.google.com/file/d/1_1x1qnSBmPYRmkHa9f4TXbnFI-_IAnyu/view?usp=sharing))**
+> 📹 **[Watch the Project Demo Here]([https://drive.google.com/file/d/1_1x1qnSBmPYRmkHa9f4TXbnFI-_IAnyu/view?usp=sharing])**
 >
 > *(Replace this with your YouTube / Google Drive demo video link before submitting)*
 
