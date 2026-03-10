@@ -169,6 +169,8 @@ Please respond immediately.
 |---|---|
 | `"help"` | Triggers SOS alert flow |
 | `"emergency"` | Triggers SOS alert flow |
+| `"danger"` | Triggers SOS alert flow |
+| `"save me"` | Triggers SOS alert flow |
 
 ### A9G — GSM/GPS Module (MicroPython)
 | Function | MicroPython Method |
