@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="images/frontend.jpg" width="380" alt="Smart Safety Band - View 1"/></td>
+    <td align="center"><img src="images/frontend.png" width="380" alt="Smart Safety Band - View 1"/></td>
     <td align="center"><img src="images/hardware.jpg" width="380" alt="Smart Safety Band - View 2"/></td>
   </tr>
   <tr>

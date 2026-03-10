@@ -63,7 +63,7 @@ export const SOSProvider = ({ children }) => {
 
 		const fetchSOS = async () => {
 			try {
-				const response = await axios.get('http://35.200.145.77/alerts');
+				const response = await axios.get('http://13.232.213.231/alerts');
 				console.log(response.data);
 				setSOSList(response.data.alerts);
 			} catch (err) {
