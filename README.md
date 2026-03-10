@@ -24,17 +24,18 @@
 </div>
 
 ---
+<div align="center">
 
 ## 👥 Team Members
 
 | Name | SAP ID |
 |---|---|
-| **Aagam Shah** | 60004230125|
-| **Chaitanya Raut** | 60004230169|
-| **Cyrus Rumao** | 60004230215|
-| **Bhaumik Chavda** | 60004230235|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Aagam Shah** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60004230125 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Chaitanya Raut** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60004230169 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cyrus Rumao** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60004230214 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bhaumik Chavda** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60004230235 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
----
+</div>
 
 ## 📌 Problem Statement
 
@@ -55,28 +56,6 @@ The **Smart Safety Band** is an intelligent wearable IoT device that detects eme
 - 📞 Places an **automatic emergency call** to pre-registered contacts
 - 🌐 Provides a **web dashboard** (frontend + backend) for live tracking and alert history for helping officials
 - Operates **completely independently** of a smartphone using a SIM card + onboard GSM
-
----
-
-## 🏗️ Project Structure
-
-```
-Smart_Safety_Band/
-│
-├── hardware_combined_code.py   # Core firmware — GPS parsing, GSM AT commands, SOS logic
-│
-├── backend/                    # Server-side application
-│   ├── app.py / server.js      # API server for receiving & storing location data
-│   ├── routes/                 # API endpoints
-│   └── ...
-│
-├── frontend/                   # Web dashboard / tracking interface
-│   ├── index.html              # Main UI
-│   ├── app.js / app.jsx        # Frontend logic
-│   └── ...
-│
-└── README.md
-```
 
 ---
 
