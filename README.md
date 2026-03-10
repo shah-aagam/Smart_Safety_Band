@@ -106,7 +106,7 @@ Smart_Safety_Band/
 - **UART / Serial** — A9G module and VC-02 communication
 - **I²C** — A9G MCU ↔ MAX30102 (heart rate) and MPU6050 (motion) sensors
 - **GSM / GPRS** — SMS delivery and voice call initiation
-- **GPS / BDS** — Satellite-based real-time positioning (NMEA data parsing)
+- **GPS / BDS** — Satellite-based real-time positioning 
 - **HTTP / REST API** — Backend ↔ Frontend data exchange
 
 ---
@@ -176,7 +176,7 @@ Please respond immediately.
 | Function | MicroPython Method |
 |---|---|
 | Enable GPS | UART command to A9G |
-| Get Coordinates | Parse NMEA data from A9G serial output |
+| Get Coordinates | Get location via Satellite Co-ordinates|
 | Send SMS | Write GSM send routine via UART |
 | Make Call | Write dial routine via UART |
 | Check Signal | Query A9G signal status |
