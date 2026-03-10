@@ -16,8 +16,8 @@
     <td align="center"><img src="images/hardware.jpg" width="380" alt="Smart Safety Band - View 2"/></td>
   </tr>
   <tr>
-    <td align="center"><em>Your caption here</em></td>
-    <td align="center"><em>Your caption here</em></td>
+    <td align="center"><em>Dashboard for officials showing location and important details</em></td>
+    <td align="center"><em>Hardware showing the connections & modules used</em></td>
   </tr>
 </table>
 
